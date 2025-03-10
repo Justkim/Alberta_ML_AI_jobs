@@ -4,4 +4,7 @@ This is a non-exhaustive list of companies in Alberta that have/had AI/ML job op
   
 | No. | Company Name | Location | Logged Positions
 |-----|--------------|-----------|--------|
+| 1   | [Absorb LMS](https://www.absorblms.com/company/careers/#jobs) | Calgary | ML engineer
 | 1   | [Amii](https://www.amii.ca/about/career-opportunities) | Edmonton | ML engineer, ML engineer intern
+
+
